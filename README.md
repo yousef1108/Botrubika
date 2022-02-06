@@ -1,2 +1,2 @@
-# Botrubika
+# Bot rubika
 .
