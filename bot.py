@@ -273,9 +273,9 @@ while True:
 							except:
 								print("err luagh")
 								
-						elif msg.get("text") == "😐":
+						elif msg.get("text") == "ممد":
 							try:
-								bot.sendMessage(target, "😑😐", message_id=msg.get("message_id"))
+								bot.sendMessage(target, "با بابام چیکا داری", message_id=msg.get("message_id"))
 							except:
 								print("err poker answer")
 								
